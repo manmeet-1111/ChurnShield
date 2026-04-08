@@ -1,0 +1,24 @@
+gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,TenureBucket,AvgBill,LongTerm,ServiceCount,NumAddOns,AvgMonthlyCharges,LongTenure,Prediction,Churn_Probability (%)
+Male,0,No,No,12,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,70.0,1000.0,0-1yr,76.92307692307692,0,6,6,76.92307692307692,0,Stay,10.34
+Male,0,No,No,12,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,70.0,1000.0,0-1yr,76.92307692307692,0,6,6,76.92307692307692,0,Stay,10.34
+Male,0,No,No,12,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,70.0,1000.0,0-1yr,76.92307692307692,0,6,6,76.92307692307692,0,Stay,10.34
+Male,0,No,No,23,Yes,No,DSL,No,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Mailed check,70.0,1000.0,1-2yr,41.666666666666664,0,4,4,41.666666666666664,0,Stay,18.07
+Male,0,No,No,12,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,70.0,1000.0,0-1yr,76.92307692307692,0,6,6,76.92307692307692,0,Stay,10.34
+Female,0,No,No,2,Yes,No,Fiber optic,No,No,Yes,Yes,No,No,One year,No,Mailed check,70.0,1000.0,0-1yr,333.3333333333333,0,2,2,333.3333333333333,0,Stay,11.18
+Male,0,No,No,12,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,70.0,1000.0,0-1yr,76.92307692307692,0,6,6,76.92307692307692,0,Stay,10.34
+Male,0,No,No,12,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,70.0,1000.0,0-1yr,76.92307692307692,0,6,6,76.92307692307692,0,Stay,10.34
+Male,0,No,No,12,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),70.0,1000.0,0-1yr,76.92307692307692,0,6,6,76.92307692307692,0,Stay,9.53
+Male,0,No,No,12,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),70.0,1000.0,0-1yr,76.92307692307692,0,6,6,76.92307692307692,0,Stay,9.53
+Male,0,No,No,12,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),70.0,1000.0,0-1yr,76.92307692307692,0,6,6,76.92307692307692,0,Stay,9.53
+Male,0,No,No,12,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,70.0,1000.0,0-1yr,76.92307692307692,0,6,6,76.92307692307692,0,Stay,10.34
+Male,0,No,No,12,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,70.0,1000.0,0-1yr,76.92307692307692,0,6,6,76.92307692307692,0,Stay,10.34
+Male,0,No,No,12,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,70.0,1000.0,0-1yr,76.92307692307692,0,6,6,76.92307692307692,0,Stay,10.34
+Male,0,No,No,12,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Electronic check,70.0,1000.0,0-1yr,76.92307692307692,0,6,6,76.92307692307692,0,Stay,8.05
+Male,0,No,No,12,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,70.0,1000.0,0-1yr,76.92307692307692,0,6,6,76.92307692307692,0,Stay,10.34
+Male,0,No,No,12,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,70.0,1000.0,0-1yr,76.92307692307692,0,6,6,76.92307692307692,0,Stay,10.34
+Male,0,No,No,12,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,70.0,11.0,0-1yr,0.8461538461538461,0,6,6,0.8461538461538461,0,Stay,10.15
+Male,0,No,No,12,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,70.0,1000.0,0-1yr,76.92307692307692,0,6,6,76.92307692307692,0,Stay,10.34
+Male,0,No,No,12,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,70.0,1000.0,0-1yr,76.92307692307692,0,6,6,76.92307692307692,0,Stay,10.34
+Male,0,No,No,12,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,70.0,1000.0,0-1yr,76.92307692307692,0,6,6,76.92307692307692,0,Stay,10.34
+Male,0,No,No,12,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,70.0,1000.0,0-1yr,76.92307692307692,0,6,6,76.92307692307692,0,Stay,10.34
+Male,0,No,No,12,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,70.0,1000.0,0-1yr,76.92307692307692,0,6,6,76.92307692307692,0,Stay,10.34
